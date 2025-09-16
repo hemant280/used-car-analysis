@@ -88,7 +88,7 @@ All Column with % of missing values
 
 **Univariant Analysis**
 
-![**Univariate Analysis**](./images/Univariate_analysis.png)
+![**Univariate Analysis**](./images/univariate_analysis.png)
 
 - Based on the univariat analysis, scopping the data to limimted values of vechicle models and title_status:
     - Limiting the scope of the model to:
